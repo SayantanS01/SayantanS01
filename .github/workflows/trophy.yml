@@ -15,7 +15,7 @@ jobs:
       contents: write
     steps:
       - name: Generate trophies
-        uses: ryo-ma/github-profile-trophy@v1
+        uses: ryo-ma/github-profile-trophy@v1.0
         with:
           username: SayantanS01
           output: trophy-output/trophy.svg

@@ -25,7 +25,7 @@
 ###
 
 <p align="center">
-  📍 Home: Kolkata, West Bengal &nbsp;|&nbsp; 💼 Work: Sarjapur, Bengaluru &nbsp;|&nbsp; 🏢 Office: Ambalipura, HSR Layout Sector 1
+  📍 Home: Kolkata, West Bengal &nbsp;|&nbsp; 💼 Work: Sarjapur, Bengaluru &nbsp;|&nbsp; 🏢 Office: Axcess,io, Ambalipura, HSR Layout Sector 1
 </p>
 
 ###

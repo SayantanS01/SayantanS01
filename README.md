@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Sayantan Sarkar</h1>
+<h3 align="center">Cloud Engineer | Based in Kolkata, West Bengal | Working out of Bengaluru</h3>
 
-<!--
-**SayantanS01/SayantanS01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,git,linux" height="60" alt="tech icons"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="35" alt="oracle sql badge" />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="35" alt="plsql badge" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sayantan-sarkar-3a544b269" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/SayantanS01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+  </a>
+</div>
+
+###
+
+<p align="center">
+  📍 Home: Kolkata, West Bengal &nbsp;|&nbsp; 💼 Work: Sarjapur, Bengaluru &nbsp;|&nbsp; 🏢 Office: Ambalipura, HSR Layout Sector 1
+</p>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SayantanS01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/SayantanS01/SayantanS01/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SayantanS01/SayantanS01/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SayantanS01/SayantanS01/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SayantanS01/SayantanS01/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###

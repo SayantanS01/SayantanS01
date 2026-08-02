@@ -1,0 +1,36 @@
+name: Generate Trophy Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day at midnight UTC
+  push:
+    branches:
+      - main
+  workflow_dispatch:       # allows manual trigger from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate trophies
+        uses: ryo-ma/github-profile-trophy@v1
+        with:
+          username: SayantanS01
+          output: trophy-output/trophy.svg
+          theme: dracula
+          column: -1
+          row: 1
+          margin-w: 8
+          margin-h: 8
+          no-bg: false
+          no-frame: false
+
+      - name: Push generated files to trophy-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: trophy-output
+          build_dir: trophy-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

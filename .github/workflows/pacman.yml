@@ -1,0 +1,31 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day at midnight UTC
+  push:
+    branches:
+      - main
+  workflow_dispatch:       # allows manual trigger from the Actions tab
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate pacman contribution graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: SayantanS01
+          outputs: |
+            pacman-output/pacman-contribution-graph.svg?game=pacman
+            pacman-output/pacman-contribution-graph-dark.svg?game=pacman&palette=github-dark
+
+      - name: Push generated files to pacman-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: pacman-output
+          build_dir: pacman-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

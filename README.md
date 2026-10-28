@@ -112,7 +112,6 @@ A network-analysis research project that studies the structural importance of no
 ## 📜 Certifications & Learning
 
 - AWS Cloud Foundations — 2025
-- Full Stack Web Development Bootcamp — 2024
 - Python Fundamentals Bootcamp — 2024
 - Preparing for AWS Certified Cloud Practitioner
 
